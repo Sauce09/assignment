@@ -1,0 +1,12 @@
+@font-face {
+    src: url(fonts/Modak-Regular.ttf);
+    font-family: nos;
+    font-weight: 40;
+}
+
+.paragraph {
+    font-size: 15px;
+    line-height: 20px;
+    font-family: nos;
+    font-weight: 40;
+}
