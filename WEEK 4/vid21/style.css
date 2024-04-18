@@ -13,7 +13,7 @@
     flex-wrap: wrap;
     flex-direction: row;*/
     flex-flow: row wrap;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: flex-start;
     align-content: space-between;
 }
@@ -30,4 +30,12 @@
     flex-basis: 60%;
     we use flex grow,shrink and basis in the format below*/
     flex: 0  1 100px;
-} 
+}
+
+.item1 {
+    background-color: yellowgreen;
+    /*flex-grow: 2;
+    flex-basis: 60%;
+    we use flex grow,shrink and basis in the format below*/
+    flex: 0  1 100px;
+}

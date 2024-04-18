@@ -329,6 +329,48 @@ header .header-cases {
     text-transform: uppercase;
 }
 
+/*CASE1*/
+video {
+    width: 400px;
+    height: 250px;
+    display: block;
+    margin: 0 auto;
+    padding: 30px 0;
+}
+
+.case-vid h2 {
+    font-family: catamaran;
+    font-size: 28px;
+    font-weight: 600;
+    padding-top: 15px;
+    color: navy;
+    text-transform: uppercase;
+
+}
+
+.case-vid article h3 {
+    font-family: catamaran;
+    font-size: 28px;
+    font-weight: 600;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    color: navy;
+    text-transform: uppercase;
+
+}
+
+.case-vid article div p {
+    font-family: catamaran;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    padding-top: 15px;
+    column-count: 3;
+    column-gap: 20px;
+
+}
+
+
 /*CONTACT
 
 .contact-link {
@@ -364,7 +406,7 @@ footer ul li {
 
 footer ul li a {
     font-family: catamaran;
-    font-size: 24px;
+    font-size: 16px;
     color: orangered;
     line-height: 40px;
 }
@@ -394,7 +436,7 @@ footer ul li a {
 
     footer ul li p {
         font-family: Catamaran;
-        font-size: 24px;
+        font-size: 16px;
         color: orangered;
         line-height: 40px;
     }
